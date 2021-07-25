@@ -39,9 +39,9 @@ Hack Facebook Instagram Phonepay Google Pay. Etc
       
      Command👇
 
-     git clone https://github.com/Vretlee/Love
-     cd Love
-     bash Rawan.sh
+     git clone https://github.com/Vretlee/ZPhisher
+     cd ZPhisher
+     bash ZPhisher.sh
 
 
 
