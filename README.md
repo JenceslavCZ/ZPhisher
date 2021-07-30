@@ -28,7 +28,7 @@ Hack Facebook Instagram Phonepay Google Pay. Etc
         </nav>
         </section>
 
-<a href="http://www.instagram.com/krish_na_2568">@InstaGram</a>
+<a href="http://www.instagram.com/krish_na_2568">$InstaGram</a>
 
 
 <main>
@@ -62,7 +62,7 @@ Hack Facebook Instagram Phonepay Google Pay. Etc
 _______________________________________________
 
 
-<a href="https://youtu.be/CFD5A3FV2CQ">@YouTube</a>
+<a href="https://youtu.be/CFD5A3FV2CQ">+YouTube+</a>
 
 
 <div class="catRow tCenter"><b>This is BaapG</b> </div>
