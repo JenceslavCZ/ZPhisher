@@ -28,7 +28,7 @@ Hack Facebook Instagram Phonepay Google Pay. Etc
         </nav>
         </section>
 
-<font color="red"> http://www.instagram.com/krish_na_2568  </font>
+<a href="http://www.instagram.com/krish_na_2568">@InstaGram</a>
 
 
 <main>
